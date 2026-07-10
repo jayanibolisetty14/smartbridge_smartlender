@@ -2,7 +2,7 @@
 A Machine Learning based web application that predicts loan approval status for applicants, helping banks and financial institutions speed up credit decisions
 
 App Link
-https://wincing-dropout-grouped.ngrok-free.dev/
+https://smartbridge-smartlender-1pre.onrender.com
 
 🔍 About the Project
 Loan approval is traditionally a slow, manual process involving multiple checks on an applicant's financial background. **Smart Lender** automates this by using a trained classification model to instantly predict whether a loan application is likely to be **Approved** or **Rejected**, along with a confidence score — reducing turnaround time for credit officers and analysts.
