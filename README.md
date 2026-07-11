@@ -66,3 +66,7 @@ App runs at `http://127.0.0.1:5000`
 - **Risk flagging:** Self-employed applicants with irregular income or no credit history are flagged for manual review
 - **Bulk processing:** Analysts can run predictions across many applicants quickly during high application volumes.
 
+Developed By
+Bolisetty Jayani
+Machine Learning Project-SmartLenderLoan Approval Prediction System.
+
